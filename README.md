@@ -1,1 +1,1 @@
-<h1>LastOneStanding</h1>
+<h1>Last One Standing</h1>
