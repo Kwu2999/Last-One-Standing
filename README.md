@@ -7,4 +7,4 @@
 </p>
 
 <h3>Screenshots</h3>
-<img src= "https://github.com/Kwu2999/Last-One-Standing/blob/master/LAST%20ONE%20STANDING.png"
+<img src="https://github.com/Kwu2999/Last-One-Standing/blob/master/LAST%20ONE%20STANDING.png" width="200px">
