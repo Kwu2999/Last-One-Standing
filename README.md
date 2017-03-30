@@ -13,5 +13,5 @@
 
 <h3>Resources</h3>
 <a href="https://www.python.org/downloads/"> Python Download</a>
-<b href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame" > PyGame Wheel File</b>
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame" > PyGame Wheel File</a>
 
